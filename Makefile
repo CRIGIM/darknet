@@ -1,7 +1,7 @@
 GPU=0
 CUDNN=0
 CUDNN_HALF=0
-# OPENCV=0  %enable 4-channel images
+OPENCV=0  #enable 4-channel images
 AVX=0
 OPENMP=0
 LIBSO=0
